@@ -3,3 +3,4 @@
 vim/.vim/bundle/
 vim/.vim/colors/
 !vim/.vim/colors/monokain.vim
+vim/.vim/.netrwhist
