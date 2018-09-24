@@ -18,6 +18,8 @@ set encoding=utf-8 "set encoding to utf-8
 syntax on "turn on syntax highlighting
 set cursorline
 set t_Co=256 "recognize 256 colors in tmux
+set laststatus=2
+set statusline+=%F
 
 " Ignore case when searching
 set ignorecase
