@@ -2,5 +2,8 @@
 
 vim/.vim/*
 !vim/.vim/colors/
+!vim/.vim/bundle/
 vim/.vim/colors/*
+vim/.vim/bundle/*
 !vim/.vim/colors/monokain.vim
+!vim/.vim/bundle/Vundle.vim
