@@ -1,4 +1,6 @@
 # .dotfiles/ .gitignore
 
-vim/.vim/
+vim/.vim/*
+!vim/.vim/colors/
+vim/.vim/colors/*
 !vim/.vim/colors/monokain.vim
