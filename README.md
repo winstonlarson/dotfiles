@@ -17,3 +17,5 @@ stow tmux
 ```
 
 2. Add the iTerm2 colorscheme in iTerm2: Preferences -> Profiles -> Colors -> Color Presets
+
+3. Install vim plugins with Vundle `:PluginInstall`
