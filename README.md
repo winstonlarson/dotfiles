@@ -5,8 +5,8 @@ Winston Larson's personal dotfiles, including
 * vim configuration for python coding (colors, plugins, language settings)
 * tmux configuration (re-binding keys)
 
-## Symlinks
-After cloning the repo, create symlinks with GNU Stow
+## How to use
+1. After cloning the repo, create symlinks with GNU Stow
 ```
 brew update
 brew install stow
@@ -15,3 +15,5 @@ stow bash
 stow vim
 stow tmux
 ```
+
+2. Add the iTerm2 colorscheme in iTerm2: Preferences -> Profiles -> Colors -> Color Presets
