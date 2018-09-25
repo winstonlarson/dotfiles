@@ -15,6 +15,7 @@ stow bash
 stow vim
 stow tmux
 ```
+You have to re-stow after additions to the folders
 
 2. Add the iTerm2 colorscheme in iTerm2: Preferences -> Profiles -> Colors -> Color Presets
 
