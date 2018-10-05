@@ -1,9 +1,5 @@
 # .dotfiles/ .gitignore
 
-vim/.vim/*
-!vim/.vim/colors/
-!vim/.vim/bundle/
-!vim/.vim/autoload/
 vim/.vim/colors/*
 !vim/.vim/colors/monokain.vim
 !vim/.vim/colors/dracula.vim
