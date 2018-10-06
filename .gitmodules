@@ -4,6 +4,3 @@
 [submodule "vim/.vim/bundle/vim-tmux-navigator"]
 	path = vim/.vim/bundle/vim-tmux-navigator
 	url = https://github.com/christoomey/vim-tmux-navigator.git
-[submodule "vim/.vim/bundle/jupyter-vim"]
-	path = vim/.vim/bundle/jupyter-vim
-	url = https://github.com/broesler/jupyter-vim.git
